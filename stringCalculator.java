@@ -25,7 +25,7 @@ public class stringCalculator
 			sum = 0;
 		else if(numbers.length() == 1)
 		{
-
+			//commenting code here from git_session_another
 		}//else-if
 		else if(numbers.contains(","))
 		{
