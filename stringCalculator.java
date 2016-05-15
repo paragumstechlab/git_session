@@ -24,7 +24,9 @@ public class stringCalculator
 		if(numbers.equalsIgnoreCase(""))
 			sum = 0;
 		else if(numbers.length() == 1)
-		{		}//else-if
+		{
+
+		}//else-if
 		else if(numbers.contains(","))
 		{
 			String[] num = numbers.split(",");
